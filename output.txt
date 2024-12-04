@@ -1,2 +1,3 @@
 BEGIN
-continuegit
+continue
+git
