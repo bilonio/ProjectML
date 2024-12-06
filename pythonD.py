@@ -5,7 +5,6 @@ from sklearn.model_selection import train_test_split, GridSearchCV
 from sklearn.metrics import accuracy_score
 
 
-'''
 # Function to tune the model using GridSearchCV
 def tune_model(model, param_grid, X_train, X_test, y_train, y_test):
     grid = GridSearchCV(model, param_grid, cv=3, n_jobs=-1) # Create a GridSearchCV object
@@ -27,14 +26,9 @@ X_train, X_test, y_train, y_test = train_test_split(features, labels, test_size=
 MLP = MLPClassifier(random_state=1)
 
 param_grid = {
-    'hidden_layer_sizes': [(10000,7000,1000,200), (10000, 5000, 500),(5000,500)],
-    'activation': ['relu', 'tanh', 'sigmoid'],
-    'solver': ['sgd', 'adam', 'rmsprop'],
-    'alpha': [1e-5, 1e-4, 1e-3, 1e-2],
-    'learning_rate_init': [0.001, 0.01, 0.1]}
+    'hidden_layer_sizes': [(400,36)],
+    'alpha': [1e-5, 1e-4, 1e-3, 1e-2]}
 best_accuracy, best_model = tune_model(MLP, param_grid, X_train, X_test, y_train, y_test)
 
 print(best_accuracy, best_model)
 
-'''
-print("git")
