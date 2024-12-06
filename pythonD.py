@@ -27,7 +27,7 @@ MLP = MLPClassifier(random_state=1)
 
 param_grid = {
     'hidden_layer_sizes': [(400,36)],
-    'alpha': [1e-5, 1e-4, 1e-3, 1e-2]}
+    'alpha': [1e-2,0.1,1,10]}
 best_accuracy, best_model = tune_model(MLP, param_grid, X_train, X_test, y_train, y_test)
 
 print(best_accuracy, best_model)
