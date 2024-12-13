@@ -7,14 +7,10 @@ This project includes four exercises aimed at applying different machine learnin
 git clone https://github.com/bilonio/ProjectML.git  
 2. Install required dependencies  
 For virtualenv:
-pip install -r requirements.txt  
+`pip install -r requirements.txt`  
 For conda environment:  
-conda env create -f environment.yml  
+`conda env create -f environment.yml` 
 3. Run each exercise notebook or script to execute the corresponding task.  
-## Usage
----------
 
-1. Run the project: `node index.js` or `python main.py`
-2. Configure settings: `config.json` or `settings.yml`
 
 
