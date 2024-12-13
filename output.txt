@@ -1,0 +1,5 @@
+BEGIN
+continue
+git
+0.8622069754145226 MLPClassifier(alpha=0.01, hidden_layer_sizes=(400, 36), random_state=1)
+0.8553459119496856 MLPClassifier(alpha=1, hidden_layer_sizes=(400, 36), random_state=1)
