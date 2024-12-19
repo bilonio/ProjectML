@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1734639481.72467 "/home/frfr/Documents/Τημμυ/Αναγνώριση Προτύπων/εργασια/shared/ProjectML/report.tex" "report.pdf" "report" 1734639483.05176 0
+["pdflatex"] 1734643044.34383 "/home/frfr/Documents/Τημμυ/Αναγνώριση Προτύπων/εργασια/shared/ProjectML/report.tex" "report.pdf" "report" 1734643046.68689 0
   "/etc/texmf/web2c/texmf.cnf" 1727128927.04104 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/home/frfr/Documents/Τημμυ/Αναγνώριση Προτύπων/εργασια/shared/ProjectML/report.tex" 1734542633.91629 9451 aa0ffd99cd0a783cce8cc94ff19e8b8a ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -225,14 +225,14 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1731792821 41411 144d376c3b22a9103b7ec302371a0923 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1734531488 5498306 cc3d544c1547932136a812c5fd6f3cc7 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1734531540 3344296 23f406f8267d62e01640400bb6187998 ""
-  "plots/DB1.pdf" 1734540438.42003 12381 6a3ab2cc1aa9735ca527ec52540a6487 ""
+  "plots/DB1.pdf" 1734643044.15063 12381 3b8cde0a8d7eb79ec39b90a7038f199a ""
   "plots/Figure_1.pdf" 1734639481.29486 8962 1808aa866db217c752510350b166a1cb ""
-  "plots/likelihoods.pdf" 1734537158.41888 13099 a6ecd823a6bea1cca85dcc2e6777b99f ""
-  "report.aux" 1734639482.95482 4626 5c199138f51889f929662c460395a56f "pdflatex"
-  "report.nav" 1734639482.95882 2557 1b0a62029a13d6cb7fd7e953f6cf8f3a "pdflatex"
-  "report.out" 1734639482.95882 1152 d30c3faa9a275b9dc606138a5d17ef6d "pdflatex"
+  "plots/likelihoods.pdf" 1734643043.93063 13099 6f3df06d77312cdfeeef55a4fe65eddb ""
+  "report.aux" 1734643046.48667 4626 5c199138f51889f929662c460395a56f "pdflatex"
+  "report.nav" 1734643046.48667 2557 1b0a62029a13d6cb7fd7e953f6cf8f3a "pdflatex"
+  "report.out" 1734643046.48667 1152 d30c3faa9a275b9dc606138a5d17ef6d "pdflatex"
   "report.tex" 1734542633.91629 9451 aa0ffd99cd0a783cce8cc94ff19e8b8a ""
-  "report.toc" 1734639482.95882 399 a4eee44c369beb54a902b85ce329b6c0 "pdflatex"
+  "report.toc" 1734643046.48667 399 a4eee44c369beb54a902b85ce329b6c0 "pdflatex"
   (generated)
   "report.aux"
   "report.log"
