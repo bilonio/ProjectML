@@ -14,6 +14,8 @@ print(np.mean(D2))
 
 plt.figure(figsize=(8, 2), dpi=80)
 plt.scatter(D,np.zeros_like(D), c=colors, s=[80]*len(D))
+plt.xlabel('x values')
+plt.tight_layout()
 plt.savefig('./plots/Figure_1.pdf')
 plt.show()
 
