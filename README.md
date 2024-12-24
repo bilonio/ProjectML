@@ -4,3 +4,7 @@ This project includes four exercises aimed at applying different machine learnin
 
 ## How to  clone the repository
 `git clone https://github.com/bilonio/ProjectML.git`
+
+```bash
+git clone https://github.com/bilonio/ProjectML.git
+
