@@ -1,5 +1,0 @@
-\babel@toc {greek}{}\relax 
-\beamer@sectionintoc {1}{ΜΕΡΟΣ Α - Εκτίμηση με Μέγιστη Πιθανοφάνεια}{2}{0}{1}
-\beamer@sectionintoc {2}{ΜΕΡΟΣ Β - Μπεϋζιανή Εκτίμηση}{10}{0}{2}
-\beamer@sectionintoc {3}{ΜΕΡΟΣ Γ - Ίριδα (Δέντρο Απόφασης/ Τυχαίο Δάσος)}{12}{0}{3}
-\beamer@sectionintoc {4}{ΜΕΡΟΣ Δ}{14}{0}{4}

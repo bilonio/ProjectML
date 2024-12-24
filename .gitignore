@@ -60,3 +60,6 @@ tags.tex
 sta
 lpz
 xwm
+
+# Mac OS 
+*.DS_Store 
