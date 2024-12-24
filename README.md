@@ -10,4 +10,7 @@ cd ./path/to/your/project
 ### 2. Clone the repository  
 ```bash
 git clone https://github.com/bilonio/ProjectML.git
-
+```
+### Install conda environment 
+```bash
+conda env create -f environment.yml
