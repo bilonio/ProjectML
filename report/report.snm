@@ -7,9 +7,10 @@
 \beamer@slide {fig:posterior}{13}
 \beamer@slide {fig:prior}{14}
 \beamer@slide {fig:posterior comparison}{14}
-\beamer@slide {fig:DB1}{19}
 \beamer@slide {fig:DB2}{19}
-\beamer@slide {fig:DB3}{23}
-\beamer@slide {fig:DB4}{26}
-\beamer@slide {fig:accuracy}{27}
-\beamer@slide {tab:model_accuracy}{44}
+\beamer@slide {fig:DB1}{20}
+\beamer@slide {fig:DB2}{20}
+\beamer@slide {fig:DB3}{24}
+\beamer@slide {fig:DB4}{27}
+\beamer@slide {fig:accuracy}{28}
+\beamer@slide {tab:model_accuracy}{45}
