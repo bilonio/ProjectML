@@ -1,0 +1,62 @@
+# LaTeX auxiliary files
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.fmt
+*.fot
+*.cb
+*.cb2
+*.lb
+
+# Intermediate documents
+*.dvi
+*.xdv
+*-converted-to.*
+
+# Bibliography auxiliary files
+*.bbl
+*.bcf
+*.blg
+*-blx.aux
+*-blx.bib
+*.run.xml
+
+# Build tool auxiliary files
+*.fdb_latexmk
+*.synctex
+*.synctex(busy)
+*.synctex.gz
+*.synctex.gz(busy)
+*.pdfsync
+rubber.cache
+
+# Additional packages and tools
+*.alg
+*.loa
+acs-*.bib
+*.thm
+*.ist
+*.lol
+*.lua
+*.pyg
+*.sout
+*.sympy
+*.xmp
+
+# Editors and temporary files
+*.bak
+*.sav
+*.swp
+~
+*.tmp
+
+# Other directories and files
+auto/
+tags.tex
+sta
+lpz
+xwm
